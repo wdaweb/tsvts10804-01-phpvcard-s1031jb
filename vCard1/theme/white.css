@@ -1,0 +1,49 @@
+body,
+html {
+  background-image:
+    url("https://i.pinimg.com/originals/98/3c/f6/983cf62ac4ef3782bbc5dd0c303dc9f3.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.card-main {
+  background-image: url(hhttps://images.fineartamerica.com/images/artworkimages/mediumlarge/1/watercolor-leaves-pattern-katerina-kirilova.jpg);
+  /* background-color: rgba(255, 255, 255, 0.95); */
+  padding: 40px 40px 35px 40px;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+  box-shadow: 0px 6px 18px 0px rgba(0, 0, 0, 0.46);
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.hr {
+  background: linear-gradient(90deg, #80808000, gray, #80808000);
+  height: 1px;
+  width: 80%;
+  border: 0;
+}
+
+.who {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin: -5px 0 -10px 0;
+  border: 6px solid #eee;
+}
+
+.clr {
+  font-size: 24px;
+}
+
+.box {
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  color: black;
+  font-weight: bold;
+  letter-spacing: 3px;
+}

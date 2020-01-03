@@ -1,0 +1,51 @@
+body,
+html {
+  background-image:
+    url("http://www.diydarlin.co/wp-content/uploads/2018/09/marble-background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.card-main {
+  background-image: url(https://img3.goipadwallpapers.com/2014/03/11/6cca6fb564ffd76c_2048x2048.jpg);
+  /* background-color: rgba(255, 255, 255, 0.95); */
+  padding: 40px 40px 35px 40px;
+  max-width: 400px;
+  height: auto;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+  box-shadow: 0px 6px 18px 0px rgba(0, 0, 0, 0.46);
+  font-family: 'Noto Sans TC', sans-serif;
+  color: white;
+}
+
+.hr {
+  background: linear-gradient(90deg, #80808000, gray, #80808000);
+  height: 1px;
+  width: 80%;
+  border: 0;
+}
+
+.who {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin: -5px 0 -10px 0;
+  border: 6px solid #eee;
+}
+
+.clr {
+  font-size: 24px;
+}
+
+.box {
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  color: black;
+  font-weight: bold;
+  letter-spacing: 3px;
+  color: white;
+}
